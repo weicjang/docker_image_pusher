@@ -8,3 +8,4 @@ hectorqin/reader
 linuxserver/heimdall
 frooodle/s-pdf
 talebook/talebook
+jxxghp/moviepilot
