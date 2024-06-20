@@ -7,3 +7,4 @@ xhofe/alist:latest
 hectorqin/reader
 linuxserver/heimdall
 frooodle/s-pdf
+talebook/talebook
