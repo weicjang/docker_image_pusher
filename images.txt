@@ -10,3 +10,4 @@ frooodle/s-pdf
 talebook/talebook
 jxxghp/moviepilot
 archivebox/archivebox
+helloz/onenav:latest
