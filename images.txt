@@ -11,3 +11,4 @@ talebook/talebook
 jxxghp/moviepilot
 archivebox/archivebox
 helloz/onenav:latest
+candiddev/homechart:latest
