@@ -12,3 +12,4 @@ jxxghp/moviepilot
 archivebox/archivebox
 helloz/onenav:latest
 dingdangdog/cashbook:latest
+postgres:latest
