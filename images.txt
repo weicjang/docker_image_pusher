@@ -13,3 +13,4 @@ archivebox/archivebox
 helloz/onenav:latest
 dingdangdog/cashbook:latest
 postgres:latest
+bestzwei/libretv:latest
