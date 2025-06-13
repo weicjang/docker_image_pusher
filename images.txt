@@ -15,3 +15,4 @@ dingdangdog/cashbook:latest
 postgres:latest
 bestzwei/libretv:latest
 0nlylty/dockercopilot:latest
+bellamy/wallos:latest
