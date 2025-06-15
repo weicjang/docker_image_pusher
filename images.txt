@@ -16,5 +16,5 @@ postgres:latest
 bestzwei/libretv:latest
 0nlylty/dockercopilot:latest
 bellamy/wallos:latest
-ghcr.io/bitmagnet-io/bitmagnet:v0.10.0@sha256:660294b2af490f5c4da33d8b84518ee097035b6de1b41f384d22ddac398732c9
+ghcr.io/bitmagnet-io/bitmagnet:v0.9.5
 postgres:16-alpine
