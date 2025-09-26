@@ -17,5 +17,4 @@ bestzwei/libretv:latest
 bellamy/wallos:latest
 ghcr.io/bitmagnet-io/bitmagnet:v0.9.5
 postgres:16-alpine
-linuxserver/qbittorrent:4.6.7
-frappe/erpnext-worker:v14.27.2
+linuxserver/qbittorrent:5.1.2
